@@ -1,0 +1,46 @@
+body
+ 
+{
+    background-image: url("background_065.jpg");
+    background-repeat: no-repeat;
+}
+h1 
+{    
+    margin: auto;
+    background-color: lightgrey;   
+    border-radius: 15px;
+    padding: 15px; 
+    width: 200px;
+    height: 20px;     
+    color: black;
+    
+}
+h2 
+{
+    color: black;
+    text-align: center;
+    font-size: 22pt;
+}
+h3 
+{
+    color: blue;
+    text-align: left;
+    font-size: 18pt;
+}
+li
+{
+    font-weight: 900;
+    font-family: segoe print;
+    font-size: 14pt;
+
+}      
+a
+{
+    font-family: segoe print;
+    font-size: 14pt;
+}     
+img
+{
+    float: right;
+    
+}

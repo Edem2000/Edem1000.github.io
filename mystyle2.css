@@ -1,0 +1,61 @@
+
+body
+ 
+{
+    background-image: url("backmov.jpeg");
+    background-repeat: no-repeat;
+}
+
+h1 
+{
+    width: 1300px;
+    color: black;
+    text-align: center;
+}
+h2 
+{
+    color: black;
+    text-align: center;
+    font-size: 22pt;
+}
+h3 
+{
+    color: blue;
+    text-align: left;
+    font-size: 18pt;
+}
+h4 
+{
+    color: blue;
+    text-align: left;
+    font-size: 16pt;
+}
+p 
+{
+    
+    font-family: verdana;
+    font-size: 13pt;
+}       
+li
+{
+    font-weight: 900;
+    background-color: lightgrey;
+    border-style: double;
+    width: 1300px;
+    font-family: segoe print;
+    font-size: 16pt;
+
+}      
+a
+{
+    
+    font-family: segoe print;
+    font-size: 14pt;
+}     
+div
+{
+    margin-top: 70px;
+    margin-right: 150px;
+    float: right;
+    width: 900px;
+}
